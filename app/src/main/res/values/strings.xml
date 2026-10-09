@@ -1,0 +1,29 @@
+<resources>
+    <!-- Header Aplikasi -->
+    <string name="app_name">Tugas 3</string>
+    <string name="prodi">Teknologi Informasi</string>
+    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
+    <string name="copy">Copyright, 2026</string>
+    <string name="logo_desc">Logo UMY</string>
+    <string name="card_list_title">Daftar Kartu Mahasiswa</string>
+
+    <!-- Data Card Mahasiswa 1 -->
+    <string name="nama_1">Rafii Arif Nugroho</string>
+    <string name="nim_1">20240140007</string>
+    <string name="alamat_1">Sewon, Bantul</string>
+
+    <!-- Data Card Mahasiswa 2 -->
+    <string name="nama_2">Khoirul Arif Pratama</string>
+    <string name="nim_2">20240140011</string>
+    <string name="alamat_2">Majenang, Cilacap</string>
+
+    <!-- Data Card Mahasiswa 3 -->
+    <string name="nama_3">Muhammad Raihan Fitzal Rahman</string>
+    <string name="nim_3">20240140009</string>
+    <string name="alamat_3">Sukamulya, Karawang</string>
+
+    <!-- Data Card Mahasiswa 4 -->
+    <string name="nama_4">Muhammad Zaki Andika</string>
+    <string name="nim_4">20240140048</string>
+    <string name="alamat_4">Pulosari, Brebes</string>
+</resources>
